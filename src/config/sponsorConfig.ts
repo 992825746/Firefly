@@ -49,7 +49,7 @@ export const sponsorConfig: SponsorConfig = {
 			name: "Github",
 			icon: "fa6-brands:github",
 			qrCode: "",
-			link: "https://github.com/CuteLeaf/Firefly",
+			link: "https://github.com/992825746",
 			description: "点个Star就是最大的支持",
 			enabled: true,
 		},
