@@ -3,7 +3,7 @@ title: Firefly 使用指南
 published: 2026-01-01
 pinned: false
 description: "如何使用 Firefly 博客模板。"
-image: "./cover.webp"
+image: "/assets/images/cover.webp"
 tags: ["使用指南"]
 category: 使用指南
 draft: false
