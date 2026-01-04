@@ -32,7 +32,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa6-solid:envelope",
-			url: "mailto:admin@flymeshe.dpdns.org",
+			url: "mailto:qq992825746@gmail.com",
 			showName: false,
 		},
 		{
