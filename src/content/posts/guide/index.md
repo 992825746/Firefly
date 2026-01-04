@@ -1,6 +1,6 @@
 ---
 title: Firefly 使用指南
-published: 2026-01-01
+published: 2025-05-01
 pinned: false
 description: "如何使用 Firefly 博客模板。"
 image: "/assets/images/cover.webp"
